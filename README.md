@@ -1,9 +1,8 @@
 # Minecraft Tire Mod 
-(ignore the mod name)
-For 1.20.1
+For 1.20.1. (ignore the mod name)
 
 ## Description
-A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain (for toilets).
+A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain.
 ### Items
 - Sulfur: A resource obtained by mining or crushing sulfur deposits.
 - Sulfur Powder: Obtained by crushing sulfur or splashing coal dust.
@@ -32,3 +31,4 @@ A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain (for
 
 <img width="659" height="179" alt="Screenshot 2025-12-12 175458" src="https://github.com/user-attachments/assets/611f4999-90eb-49a1-b34e-a352d814f383" />
 <img width="559" height="130" alt="Screenshot 2025-12-12 175450" src="https://github.com/user-attachments/assets/dd8493e4-f889-46b5-ab63-19f980ab7ea7" />
+
