@@ -29,6 +29,8 @@ A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain.
 ## Images
 (textures and models need work)
 
+<img width="979" height="559" alt="image" src="https://github.com/user-attachments/assets/4eafafe5-79b0-4427-bbda-b5e4fdf34142" />
+<img width="623" height="459" alt="image" src="https://github.com/user-attachments/assets/b059cb9b-d72c-49cb-8d44-e08ffba4f063" />
 <img width="544" height="560" alt="Screenshot 2025-12-13 034805" src="https://github.com/user-attachments/assets/bbf6e2ce-0b43-46c9-b1f1-c44542411530" />
 <img width="566" height="152" alt="image" src="https://github.com/user-attachments/assets/cbf7c8e9-2b2d-4e32-aa98-c0841397b278" />
 <img width="668" height="175" alt="Screenshot 2025-12-13 034821" src="https://github.com/user-attachments/assets/2967eae8-ee78-4100-90d3-02b2875b1581" />
