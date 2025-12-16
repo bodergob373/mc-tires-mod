@@ -7,7 +7,7 @@ For 1.20.1. (ignore the names)
 A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain.
 ### Items
 
-<img width="500" height="250" alt="Screenshot 2025-12-13 141419" src="https://github.com/user-attachments/assets/adea343f-c6a3-46bd-af14-5cd645d2dfbc" />
+<img width="650" height="148" alt="Screenshot 2025-12-16 003803" src="https://github.com/user-attachments/assets/c3cefb59-6c7f-4ce4-8466-e73c373dafbf" />
 
 - Sulfur: A resource obtained by mining or crushing sulfur deposits.
 - Sulfur Powder: Obtained by crushing sulfur or splashing coal dust.
@@ -26,7 +26,7 @@ A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain.
 - Tires: Different-sized items made by smelting green tires. Used only for crafting wheels.
 ### Blocks
 
-<img width="500" height="180" alt="Screenshot 2025-12-13 141434" src="https://github.com/user-attachments/assets/6f3abbdb-d37f-43d9-b9f8-bcb15fcaf04c" />
+<img width="650" height="76" alt="Screenshot 2025-12-14 220431" src="https://github.com/user-attachments/assets/179b8403-d896-460b-81c9-df686faef5c2" />
 
 - Kaolin Block: A resource block similar to clay that naturally spawns underwater.
 - Sulfur Deposit: A resource block that can be found in large, rare deposits.
@@ -42,5 +42,6 @@ A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain.
 <img width="544" height="560" alt="Screenshot 2025-12-13 034805" src="https://github.com/user-attachments/assets/bbf6e2ce-0b43-46c9-b1f1-c44542411530" />
 <img width="1143" height="448" alt="image" src="https://github.com/user-attachments/assets/bd44b3d8-c615-469a-9109-dc62f5bfd617" />
 <img width="1040" height="688" alt="image" src="https://github.com/user-attachments/assets/92fff430-8df9-4860-bf21-677194c64efe" />
+
 
 
