@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "rubber_tires:sulfur_deposit_placed",
+  "step": "underground_ores"
+}

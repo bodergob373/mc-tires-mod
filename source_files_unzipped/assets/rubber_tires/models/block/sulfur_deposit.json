@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "rubber_tires:block/sulfur_deposit",
+    "particle": "#all"
+  }
+}

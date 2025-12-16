@@ -1,0 +1,51 @@
+[
+    {
+        "block": "rubber_tires:kaolin_block",
+        "mass": 100.0,
+        "friction": 0.4,
+        "elasticity": 0.0,
+        "priority": 100
+    },
+    {
+        "block": "rubber_tires:sulfur_deposit",
+        "mass": 225.0,
+        "friction": 0.6,
+        "elasticity": 0.0,
+        "priority": 100
+    },
+    {
+        "block": "rubber_tires:porcelain_block",
+        "mass": 250.0,
+        "friction": 0.2,
+        "elasticity": 0.0,
+        "priority": 100
+    },
+    {
+        "block": "rubber_tires:tire_rubber_block",
+        "mass": 150.0,
+        "friction": 0.8,
+        "elasticity": 0.4,
+        "priority": 100
+    },
+    {
+        "block": "rubber_tires:tire_tread_block",
+        "mass": 120.0,
+        "friction": 1.0,
+        "elasticity": 0.0,
+        "priority": 100
+    },
+    {
+        "block": "rubber_tires:wheel_rim_3",
+        "mass": 350.0,
+        "friction": 0.2,
+        "elasticity": 0.0,
+        "priority": 100
+    },
+    {
+        "block": "rubber_tires:wheel_3",
+        "mass": 450.0,
+        "friction": 1.0,
+        "elasticity": 0.0,
+        "priority": 100
+    }
+]

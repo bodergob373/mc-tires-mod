@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "rubber_tires:sulfur_deposit"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "rubber_tires:sulfur"
+    },
+    {
+      "chance": 0.75,
+      "item": "rubber_tires:sulfur"
+    },
+    {
+      "chance": 0.75,
+      "item": "rubber_tires:sulfur"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:cobblestone"
+    }
+  ]
+}
