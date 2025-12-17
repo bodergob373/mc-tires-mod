@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 2,
+        "max_inclusive": 8
+      }
+    },
+    "half_height": 4,
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": [
+        "minecraft:dirt",
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "minecraft:gravel"
+      ]
+    },
+    "state_provider": {
+      "type": "minecraft:rule_based_block_state_provider",
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "rubber_tires:kaolin_block"
+        }
+      },
+      "rules": []
+    }
+  }
+}

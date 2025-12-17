@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SK",
+    "KS"
+  ],
+  "key": {
+    "K": {
+      "item": "rubber_tires:kaolin"
+    },
+    "S": {
+      "tag": "forge:sand/colorless"
+    }
+  },
+  "result": {
+    "count": 2,
+    "item": "rubber_tires:unfired_porcelain_block"
+  }
+}

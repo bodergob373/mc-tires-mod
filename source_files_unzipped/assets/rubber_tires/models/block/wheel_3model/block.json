@@ -1,6 +1,0 @@
-{
-	"parent": "rubber_tires:block/wheel_3/textures",
-	"loader": "forge:obj",
-	"flip_v": true,
-	"model": "rubber_tires:models/block/wheel_3/model.obj"
-}

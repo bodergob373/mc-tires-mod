@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "rubber_tires:block/porcelain",
-    "particle": "#all"
-  }
-}

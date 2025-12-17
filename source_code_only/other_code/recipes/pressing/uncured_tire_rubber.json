@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "rubber_tires:uncured_tire_rubber"
+    }
+  ],
+  "results": [
+    {
+      "item": "rubber_tires:uncured_tire_tread"
+    }
+  ]
+}

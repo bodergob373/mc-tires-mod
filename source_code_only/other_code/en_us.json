@@ -1,0 +1,36 @@
+{
+    "item.rubber_tires.kaolin": "Kaolin",
+    "item.rubber_tires.unfired_porcelain_block": "Unfired Porcelain Block",
+    "item.rubber_tires.sulfur": "Sulfur",
+    "item.rubber_tires.sulfur_powder": "Sulfur Powder",
+    "item.rubber_tires.coal_dust": "Coal Dust",
+    "item.rubber_tires.charcoal_dust": "Charcoal Dust",
+    "item.rubber_tires.impure_carbon_powder": "Impure Carbon Powder",
+    "item.rubber_tires.carbon_powder": "Carbon Powder",
+    "item.rubber_tires.raw_rubber": "Raw Rubber",
+    "item.rubber_tires.uncured_tire_rubber": "Uncured Tire Rubber",
+    "item.rubber_tires.uncured_tire_tread": "Uncured Tire Tread",
+    "item.rubber_tires.uncured_tire_rubber_block": "Uncured Rubber Block",
+    "item.rubber_tires.uncured_tire_tread_block": "Uncured Tread Block",
+    "item.rubber_tires.green_tire_3": "Green Tire (3)",
+    "item.rubber_tires.tire_3": "Tire (3)",
+
+    "item.rubber_tires.kaolin_block": "Kaolin Block",
+    "item.rubber_tires.porcelain_block": "Porcelain",
+    "item.rubber_tires.sulfur_deposit": "Sulfur Deposit",
+    "item.rubber_tires.tire_rubber_block": "Tire Rubber Block",
+    "item.rubber_tires.tire_tread_block": "Tire Tread Block",
+    "item.rubber_tires.wheel_rim_3": "Wheel Rim (3)",
+    "item.rubber_tires.wheel_3": "Wheel (3)",
+
+    "block.rubber_tires.kaolin_block": "Kaolin Block",
+    "block.rubber_tires.porcelain_block": "Porcelain",
+    "block.rubber_tires.sulfur_deposit": "Sulfur Deposit",
+    "block.rubber_tires.tire_rubber_block": "Tire Rubber Block",
+    "block.rubber_tires.tire_tread_block": "Tire Tread Block",
+    "block.rubber_tires.wheel_rim_3": "Wheel Rim (3)",
+    "block.rubber_tires.wheel_3": "Wheel (3)",
+
+    "itemGroup.rubber_tires.sussy_skibidi_tires_items": "Sussy Skibidi Items",
+    "itemGroup.rubber_tires.sussy_skibidi_tires_blocks": "Sussy Skibidi Blocks"
+}

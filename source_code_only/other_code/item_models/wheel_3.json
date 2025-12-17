@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rubber_tires:item/wheel",
+    "layer1": "rubber_tires:item/overlay_3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 250,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "rubber_tires:unfired_porcelain_block"
+  },
+  "result": "rubber_tires:porcelain_block"
+}

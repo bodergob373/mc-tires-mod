@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "cookingtime": 300,
-  "experience": 0.4,
-  "ingredient": {
-    "item": "rubber_tires:uncured_tire_rubber_block"
-  },
-  "result": "rubber_tires:tire_rubber_block"
-}

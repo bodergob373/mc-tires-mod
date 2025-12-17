@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: rubber_tires
-Specification-Vendor: bodergob373
-Specification-Version: 1
-Implementation-Title: mctiresmod
-Implementation-Version: 1.0.0
-Implementation-Vendor: bodergob373
-Implementation-Timestamp: 2025-12-16T00:31:43-0700
-

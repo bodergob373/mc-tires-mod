@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "facing=west": {
+      "model": "rubber_tires:block/wheel_rim_3",
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "facing=east": {
+      "model": "rubber_tires:block/wheel_rim_3",
+      "x": 0,
+      "y": -90,
+      "z": 0
+    },
+    "facing=down": {
+      "model": "rubber_tires:block/wheel_rim_3",
+      "x": 90,
+      "y": 0,
+      "z": 0
+    },
+    "facing=up": {
+      "model": "rubber_tires:block/wheel_rim_3",
+      "x": -90,
+      "y": 0,
+      "z": 0
+    },
+    "facing=south": {
+      "model": "rubber_tires:block/wheel_rim_3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "facing=north": {
+      "model": "rubber_tires:block/wheel_rim_3",
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  }
+}

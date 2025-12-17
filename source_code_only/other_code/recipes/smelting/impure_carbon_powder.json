@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 150,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "rubber_tires:impure_carbon_powder"
+  },
+  "result": "rubber_tires:carbon_powder"
+}

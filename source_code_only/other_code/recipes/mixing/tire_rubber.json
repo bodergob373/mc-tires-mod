@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "rubber_tires:raw_rubber"
+    },
+    {
+      "item": "rubber_tires:carbon_powder"
+    },
+    {
+      "item": "rubber_tires:sulfur_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "rubber_tires:tire_rubber"
+    }
+  ]
+}

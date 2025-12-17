@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "cookingtime": 120,
-  "experience": 0.2,
-  "ingredient": {
-    "item": "rubber_tires:unfired_porcelain_block"
-  },
-  "result": "rubber_tires:porcelain_block"
-}
