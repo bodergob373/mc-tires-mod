@@ -1,10 +1,10 @@
 # Minecraft Tire Mod 
-For 1.20.1. (ignore the names)
+For 1.20.1. (ignore the real mod name)
 
 <img width="1718" height="795" alt="modimage" src="https://github.com/user-attachments/assets/6602ef8d-44cc-454b-9ce0-bd61f246a013" />
 
 ## Description
-A Minecraft Forge mod that adds rubber, sulfur, round wheels, and porcelain.
+A Minecraft Forge mod that adds rubber, sulfur, partially-round wheels, and porcelain.
 ### Items
 
 <img width="650" height="148" alt="Screenshot 2025-12-16 003803" src="https://github.com/user-attachments/assets/c3cefb59-6c7f-4ce4-8466-e73c373dafbf" />
